@@ -11,7 +11,7 @@ Ephemeral Shards: Links are broken during the "Distillation" phase.
 
 Quantum Resistant: Based on information-theoretic security.
 
-**Author:** Petr Blinov  
+**Author:** Piotr Blinov  
 **Status:** Research & Development (Phase 1: Fragmentation)
 
 🏛 Philosophy: The Right to Mathematics
